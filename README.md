@@ -39,8 +39,6 @@ This project is a Java console-based banking application that demonstrates the u
 
 ---
 
----
-
 ## 🎯 Learning Outcomes
 - Learned how to create and use custom exceptions  
 - Improved understanding of exception handling  
